@@ -1,0 +1,7 @@
+# _config.yml
+title: Property Locker Legal
+url: https://legal.property-locker.com
+permalink: /:basename
+markdown: kramdown
+kramdown:
+  input: GFM
